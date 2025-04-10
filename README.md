@@ -1,10 +1,5 @@
 ## Hi, I'm Harika ✨
 
-🧠 computer science student at MLWEC<br>
-🤖 Artificial Intelligence and Machine learning Student<br>
-🔗 My linkedin account : www.linkedin.com/in/harika-chunduru-461586323
-
-
 # 💫 About Me:
 ## Hi, I'm Harika ✨<br><br>🧠 computer science student at MLWEC<br><br>🤖 Artificial Intelligence and Machine learning Student<br><br>🔗 My linkedin account : www.linkedin.com/in/harika-chunduru-461586323<br>
 
